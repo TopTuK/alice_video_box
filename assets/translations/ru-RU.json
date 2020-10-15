@@ -1,0 +1,35 @@
+{
+    "login_title" : "ВХОД",
+    "login_email" : "Email",
+    "login_email_hint" : "Введите ваш email адрес",
+    "login_passwd" : "Пароль",
+    "login_passwd_hint" : "Введите ваш пароль",
+    "login_error_text" : "Ошибка входа",
+
+    "emptyLoginText" : "Логин не может быть пустым!",
+    "emptyPasswordText" : "Пароль не может быть пустым!",
+    "invalidaLoginText" : "Формат логина задан с ошибкой!",
+
+    "onboarding_skip" : "Пропустить",
+    "onboarding_next" : "Дальше",
+    "onboarding_start" : "Продолжить!",
+
+    "onboardingTitle1" : "Не получается найти видео ролик",
+    "onboardingTitle2" : "Отправляйте видео клип из приложения Youtube на Яндекс станцию",
+    "onboardingTitle3" : "Новый уровень удобства",
+
+    "onboardingText1" : "Трудно найти нужный видео ролик с помощью голосовых команд. Yandex позволяет найти только те видео, которые синхронизированы с сервисом Yandex.Video",
+    "onboardingText2" : "Представьте, что есть простая возможность отправить видео клип из приложения Youtube на Яндекс станцию!",
+    "onboardingText3" : "Достаточно сделать простые шаги:\n- Найти видео клип\n- Отправить его в это приложение\n- Выбрать Яндекс станцию для воспроизведения",
+
+    "device_title" : "Мои устройства",
+    "device_empty" : "Устройства не обнаружены",
+    "device_refresh" : "Обновить",
+    "device_url" : "Адрес видео",
+    "device_video_url" : "Введите или вставьте адрес видео",
+    "device_back" : "Назад",
+    "device_play_video" : "Запустить видео",
+
+    "device_play_success" : "Видео запущено",
+    "device_play_fail" : "Ошибка запуска видео"
+}

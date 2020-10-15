@@ -1,0 +1,35 @@
+{
+    "login_title" : "LOGIN",
+    "login_email" : "Email",
+    "login_email_hint" : "Enter your Yandex email",
+    "login_passwd" : "Password",
+    "login_passwd_hint" : "Enter your Yandex password",
+    "login_error_text" : "Login error",
+
+    "emptyLoginText" : "Login is empty",
+    "emptyPasswordText" : "Password is empty",
+    "invalidaLoginText" : "Formatting of login is invalid",
+
+    "onboarding_skip" : "Skip",
+    "onboarding_next" : "Next",
+    "onboarding_start" : "Get started!",
+
+    "onboardingTitle1" : "Hard to find videos with Alice Station",
+    "onboardingTitle2" : "Share video clips from Youtube to Alice Station",
+    "onboardingTitle3" : "Get a new experience of imagination",
+
+    "onboardingText1" : "It's hard to find video on Youtube using voice commands. Yandex service can find out only those videos which synchronized with Yandex.Video service",
+    "onboardingText2" : "Imagine if you can simply share video clips from your Youtube app to Alice Station with a few simple actions! Live your life smarter with us!",
+    "onboardingText3" : "Simple smart steps to use:\n- Find video on Youtube\n- Share video URL to this app\n- Select Alice station to play video",
+
+    "device_title" : "My Devices",
+    "device_empty" : "No devices",
+    "device_refresh" : "Refresh",
+    "device_url" : "Video url",
+    "device_video_url" : "Enter or paste video url",
+    "device_back" : "Back",
+    "device_play_video" : "Play video",
+
+    "device_play_success" : "Playing video!",
+    "device_play_fail" : "Video playing error"
+}
